@@ -4,6 +4,8 @@
 
 ## Conectando ao Github 
 
+# Teoria sobre os principais comandos utlizados 
+
 # Comandos mais utlizados 
 git status 
 git add
