@@ -24,4 +24,4 @@
 **coloca no github**
 
 # git pull 
-**tras o arquivo do github pro terminal** 
+**tras o arquivo do github pro terminal, ou seja qualquer colaboracao pode ser trazido** 
