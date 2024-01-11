@@ -16,5 +16,6 @@ Para criar a branch pelo github:
 3- inserir o nome da nova branch
 4- confirmar a criacao dessa nova branch 
 
-
+## Merge 
+git merge [nome_branch]
 
