@@ -21,6 +21,7 @@
 # git commit -m [nome_das_alteracoes]
 
 # git push
+**coloca no github**
 
 # git pull 
-
+**tras o arquivo do github pro terminal** 
